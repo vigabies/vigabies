@@ -8,7 +8,9 @@ I'm a student of system development who likes to read in free time.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigabies&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br>
+<br> <br>
+
+<div style="display: inline_block">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Gabi-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
