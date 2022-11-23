@@ -1,6 +1,6 @@
 ## Hi World 👽
 
-I'm a student of system development who likes to read in free time.
+I'm a brazilian student of system development who likes to read in free time.
 
 <div style="display: inline-block;">
   <a href="https://github.com/vigabies">
