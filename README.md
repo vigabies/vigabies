@@ -1,17 +1,18 @@
 ## Hi World 👽
 
-I'm a brazilian student of system development who likes to read in free time.
-
-<div style="display: inline-block;">
-  <a href="https://github.com/vigabies">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vigabies&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigabies&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  I'm a brazilian student of system development who likes to read in free time.
 </div>
+
+ <div align="center">
+    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100">
+  </div>
   
+  <br>
   
 <br> <br>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Gabi-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -25,5 +26,7 @@ I'm a brazilian student of system development who likes to read in free time.
   <img align="center" alt="Gabi-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
   
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=violet&height=60&section=footer&width=100"/>
+</p>
   
-  ##
