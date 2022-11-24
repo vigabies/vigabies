@@ -27,7 +27,8 @@
 </div>
 -->
 
-  
+  <h6 display="flex", align="center"><i>there's things that we'll never know...</i></h6>
+
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=violet&height=60&section=footer&width=100"/>
 </p>
