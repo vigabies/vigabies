@@ -12,6 +12,16 @@
 <h6 display="flex", align="center"><i>there's things that we'll never know...</i></h6>
 <br>
 
+<!-- <div align= "center"> 
+ <a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+ 
+<!--  <a href="mailto:vigabiesdivision@gmail.com" target="_blank">
+     <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="20" width="20" />
+    </a>
+     -->
+<!-- </div> --> 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C0C6C8&height=60&section=footer&width=100"/>
 </p>
