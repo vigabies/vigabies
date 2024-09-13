@@ -1,31 +1,22 @@
+# hello lovers 💗
 
-<h3 display="flex", align="center">Hi World 👽</h3>
-<h4 display="flex", align="center">I'm a brazilian student of system development</h3>
-<h5 display="flex", align="center"><i>who likes to read in free time.</i></h6>
+I'm a computer science student who dives deep into data analysis. I’m definitely more of a back-end geek than a front-end enthusiast, and Java is my language of choice—despite it being the programming world’s favorite love-to-hate language.
 
-<br>
- <div align="center">
-    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100">
- </div> 
-<br>
- 
-<h6 display="flex", align="center"><i>there's things that we'll never know...</i></h6>
-<br>
+<h6 display="flex", align="justify"><i>You can find me here as well ↓
+</i></h6>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C0C6C8&height=60&section=footer&width=100"/>
-</p>
- 
+  <a href="https://www.linkedin.com/in/vigabies/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 <br>
 <div align="center" style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="28" height="28"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="28" height="28"/>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="28" height="28"/></a>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="28" height="28"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28"/>
+ 
 </div>
   
