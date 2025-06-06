@@ -2,11 +2,13 @@
 
 I'm a computer science student who dives deep into data analysis. I’m definitely more of a back-end geek than a front-end enthusiast, and Java is my language of choice—despite it being the programming world’s favorite love-to-hate language.
 
+
+<!--
 <h6 display="flex", align="justify"><i>You can find me here as well ↓
 </i></h6>
 
   <a href="https://www.linkedin.com/in/vigabies/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+-->
 
 <br>
 <div align="center" style="display: inline_block">
