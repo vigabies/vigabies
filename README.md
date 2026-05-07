@@ -1,24 +1,22 @@
-# hello lovers 💗
+# Hello, I'm Gabriela Silva 👋
 
-I'm a computer science student who dives deep into data analysis. I’m definitely more of a back-end geek than a front-end enthusiast, and Java is my language of choice—despite it being the programming world’s favorite love-to-hate language.
+Computer Science student passionate about technology and continuous learning.
 
+I'm always exploring new areas of development, building projects and improving my programming skills little by little.
 
-<!--
-<h6 display="flex", align="justify"><i>You can find me here as well ↓
-</i></h6>
+## Technologies
 
-  <a href="https://www.linkedin.com/in/vigabies/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
--->
+Java • JavaScript • TypeScript • Node.js • React • HTML • CSS • MySQL • Git
 
-<br>
-<div align="center" style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28"/>
- 
-</div>
-  
+## About me
+
+- 🎓 Computer Science student at Unisagrado
+- 🌱 Currently learning more about software development and APIs
+- 💡 Interested in technology, programming and data analysis
+- ☕ Java enthusiast
+
+## Connect with me
+
+<a href="https://www.linkedin.com/in/vigabies/" target="_blank">
+  LinkedIn
+</a>
