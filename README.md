@@ -6,7 +6,7 @@ I'm always exploring new areas of development, building projects and improving m
 
 ## Technologies
 
-Java • JavaScript • TypeScript • Node.js • React • HTML • CSS • MySQL • Git
+Java • JavaScript • Node.js • C# • MySQL •
 
 ## About me
 
