@@ -7,11 +7,11 @@ I'm currently getting back into building projects, strengthening my programming 
 
 ## 💻 Technologies
 
- `Python` • `Java` • `JavaScript` • `C#` • `Node.js` • `.NET` • `MySQL` 
+`C#` • `.NET` • `Java` • `JavaScript` • `Node.js` • `Python` • `MySQL`
 
 ## 🌱 Currently Learning
 
-**C# • .NET • REST APIs • SQL • Backend Development**
+Currently learning more about backend development, exploring new technologies and putting my knowledge into practice through personal projects.
 
 ## ✨ About Me
 
