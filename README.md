@@ -2,8 +2,7 @@
 
 🎓 **Computer Science Student | Software Development**
 
-I'm a Computer Science student passionate about technology and continuous learning.
-I'm currently getting back into building projects, strengthening my programming skills and exploring backend development with C# and .NET.
+I'm a Computer Science student passionate about technology and continuous learning. I'm currently building new projects, strengthening my programming skills and exploring backend development with C# and .NET.
 
 ## 💻 Technologies
 
@@ -11,7 +10,7 @@ I'm currently getting back into building projects, strengthening my programming 
 
 ## 🌱 Currently Learning
 
-Currently learning more about backend development, exploring new technologies and putting my knowledge into practice through personal projects.
+Currently learning more about **backend development**, exploring new technologies and putting my knowledge into practice through personal projects.
 
 ## ✨ About Me
 
