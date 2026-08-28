@@ -3,7 +3,7 @@
 🎓 **Computer Science Student | Software Development**
 
 I'm a Computer Science student passionate about technology and continuous learning.
-Currently exploring **backend development, C#, .NET and APIs** while building projects and improving my programming skills.
+I'm currently getting back into building projects, strengthening my programming skills and exploring backend development with C# and .NET.
 
 ## 💻 Technologies
 
