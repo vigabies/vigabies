@@ -1,22 +1,26 @@
 # Hello, I'm Gabriela Silva 👋
 
-Computer Science student passionate about technology and continuous learning.
+🎓 **Computer Science Student | Software Development**
 
-I'm always exploring new areas of development, building projects and improving my programming skills little by little.
+I'm a Computer Science student passionate about technology and continuous learning.
+Currently exploring **backend development, C#, .NET and APIs** while building projects and improving my programming skills.
 
-## Technologies
+## 💻 Technologies
 
-Java • JavaScript • Node.js • C# • MySQL •
+ `Python` • `Java` • `JavaScript` • `C#` • `Node.js` • `.NET` • `MySQL` 
 
-## About me
+## 🌱 Currently Learning
 
-- 🎓 Computer Science student at Unisagrado
-- 🌱 Currently learning more about software development and APIs
-- 💡 Interested in technology, programming and data analysis
-- ☕ Java enthusiast
+**C# • .NET • REST APIs • SQL • Backend Development**
 
-## Connect with me
+## ✨ About Me
+
+* 🎓 Computer Science student at **Unisagrado**
+* 💡 Passionate about technology and programming
+* 🚀 Always learning and building new projects
+
+## 🔗 Connect with me
 
 <a href="https://www.linkedin.com/in/vigabies/" target="_blank">
-  LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
